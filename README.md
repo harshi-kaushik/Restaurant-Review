@@ -1,7 +1,7 @@
 Restaurant Review Model
 
 What we want to achieve?
-Let's say we have 1000s of restaurant reviews and we want to ML model
+Let's say we have 1000s of restaurant reviews and we want to have a ML model
 to tell us that this is a positive review or a negative review.
 
 Steps performed:
